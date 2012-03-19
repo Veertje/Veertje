@@ -6,6 +6,6 @@ else {
 ?>
 <form action='' method='POST'>
 <input type='text' name='naam'>
-<input type='submit'>
+<input type='submit' value='Zeg Hoi'>
 </form>
 <?php }
